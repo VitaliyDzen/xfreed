@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **xfreed/xfreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Mykhailo Kunynets </h1>
+<h3 align="center">A Full-stack .NET Developer </h3>
+
+- 👨‍💻 All of my projects are available  [here](https://github.com/xfreed?tab=repositories)
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **xfreed1@gmail.com**
+
+![stats](https://github-readme-stats.vercel.app/api?username=xfreed&count_private=true)
