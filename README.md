@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm Mykhailo Kunynets </h1>
 <h3 align="center">A Full-stack .NET Developer </h3>
 
@@ -23,3 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me **xfreed1@gmail.com**
 
 ![stats](https://github-readme-stats.vercel.app/api?username=xfreed&count_private=true)
+<img src="https://github.com/xfreed/xfreed/blob/master/giphy-0.gif" data-canonical-src="https://github.com/xfreed/FSou1/xfreed/master/giphy-0.gif" width="350" align="right" />
